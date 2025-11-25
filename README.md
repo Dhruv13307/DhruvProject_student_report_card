@@ -24,14 +24,14 @@ This project demonstrates fundamental concepts of programming in C, such as **st
 
 <h2> Key Features</h2>
 
-✔ Add new student records
-✔ Display all stored records
-✔ Search student by ID
-✔ Update existing information
-✔ Delete a student record
-✔ Automatic average & grade calculation
-✔ Menu-driven system
-✔ Maximum capacity: **200 students**
+ Add new student records
+ Display all stored records
+ Search student by ID
+ Update existing information
+ Delete a student record
+ Automatic average & grade calculation
+ Menu-driven system
+ Maximum capacity: **200 students**
 
 ---
 
