@@ -72,29 +72,6 @@ This project demonstrates fundamental concepts of programming in C, such as **st
 
 ---
 
-<h2> How to Compile & Run the Program</h2>
-
-<h3>Using GCC Compiler</h3>
-
-1️ Navigate to the source folder:
-
-```
-cd src
-```
-
-2️ Compile the program:
-
-```
-gcc main.c -o main
-```
-
-3️ Execute the program:
-
-```
-./main
-```
-
----
 
 <h2> Program Workflow</h2>
 
