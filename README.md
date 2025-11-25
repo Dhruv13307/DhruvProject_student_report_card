@@ -112,9 +112,6 @@ This project demonstrates fundamental concepts of programming in C, such as **st
 
 ---
 
-<h2>👤 Author Information</h2>
-
-<b>Name:</b> Dhruv <b>SAP ID:</b> 590024139 <b>Course:</b> Programming in C (CSEG1032) <b>University:</b> University of Petroleum and Energy Studies
 
 ---
 
