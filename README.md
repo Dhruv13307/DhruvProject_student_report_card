@@ -2,11 +2,11 @@
 
 ---
 
-<h1 align="center">📘 Student Report Card Management System (C)</h1>
+<h1 align="center"> Student Report Card Management System (C)</h1>
 
 ---
 
-<h2>📌 Project Description</h2>
+<h2> Project Description</h2>
 
 The **Student Report Card Management System** is a console-based application developed in the **C programming language** to efficiently manage and organize student academic records. The system enables users to perform all essential record operations including adding, viewing, searching, modifying, and deleting student information through a simple, user-friendly menu interface.
 
@@ -22,7 +22,7 @@ This project demonstrates fundamental concepts of programming in C, such as **st
 
 ---
 
-<h2>✅ Key Features</h2>
+<h2> Key Features</h2>
 
 ✔ Add new student records
 ✔ Display all stored records
@@ -35,7 +35,7 @@ This project demonstrates fundamental concepts of programming in C, such as **st
 
 ---
 
-<h2>🛠 Technologies & Concepts Used</h2>
+<h2> Technologies & Concepts Used</h2>
 
 * C Programming Language
 * Structures (`struct`)
@@ -48,7 +48,7 @@ This project demonstrates fundamental concepts of programming in C, such as **st
 
 ---
 
-<h2>📂 Repository Structure</h2>
+<h2> Repository Structure</h2>
 
 ```
 /
@@ -68,27 +68,27 @@ This project demonstrates fundamental concepts of programming in C, such as **st
 │── README.md
 ```
 
-⚠️ **Important:** Folder names are *case-sensitive* (`src`, `include`, `docs`) and must match exactly.
+ **Important:** Folder names are *case-sensitive* (`src`, `include`, `docs`) and must match exactly.
 
 ---
 
-<h2>▶️ How to Compile & Run the Program</h2>
+<h2> How to Compile & Run the Program</h2>
 
 <h3>Using GCC Compiler</h3>
 
-1️⃣ Navigate to the source folder:
+1️ Navigate to the source folder:
 
 ```
 cd src
 ```
 
-2️⃣ Compile the program:
+2️ Compile the program:
 
 ```
 gcc main.c -o main
 ```
 
-3️⃣ Execute the program:
+3️ Execute the program:
 
 ```
 ./main
@@ -96,7 +96,7 @@ gcc main.c -o main
 
 ---
 
-<h2>⚙️ Program Workflow</h2>
+<h2> Program Workflow</h2>
 
 1. The program displays a menu with the following options:
 
@@ -113,7 +113,7 @@ gcc main.c -o main
 
 4. The program continues until option **6 (Exit)** is chosen
 
-<h3>🎯 Grade Calculation Criteria</h3>
+<h3> Grade Calculation Criteria</h3>
 
 | Average Score | Grade |
 | ------------- | ----- |
@@ -125,13 +125,13 @@ gcc main.c -o main
 
 ---
 
-<h2>📈 Future Enhancements</h2>
+<h2> Future Enhancements</h2>
 
-📌 Permanent data storage using **file handling**
-📌 Input validation and error checking
-📌 Sorting students by average score
-📌 Login authentication system
-📌 GUI version of the application
+ Permanent data storage using **file handling**
+ Input validation and error checking
+ Sorting students by average score
+ Login authentication system
+ GUI version of the application
 
 ---
 
